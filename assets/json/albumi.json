@@ -1,0 +1,108 @@
+[
+    {
+        "albumID":1,
+        "izvodjacID":1,
+        "naziv":"Hybrid Theory",
+        "cena":{
+            "stara":2800,
+            "nova":2200,
+            "valuta":"RSD"
+        },
+        "zanrovi":[1,2,3],
+        "slika":{
+            "src":"assets/img/hybrid.jpg",
+            "alt":"Linkin Park Hybrid Theory"
+        },
+        "datumIzlaska":{
+            "dan":24,
+            "mesec":10,
+            "godina":2000
+        },
+        "pakovanje":"2LP",
+        "pesme":[
+            {
+                "ime":"Papercut",
+                "duzina":"3:04"
+            },
+            {
+                "ime":"One Step Closer",
+                "duzina":"2:35"
+            },
+            {
+                "ime":"With You",
+                "duzina":"3:23"
+            },
+            {
+                "ime":"Points of Authority",
+                "duzina":"3:20"
+            },
+            {
+                "ime":"Crawling",
+                "duzina":"3:29"
+            },
+            {
+                "ime":"Runaway",
+                "duzina":"3:03"
+            },
+            {
+                "ime":"By Myself",
+                "duzina":"3:09"
+            },
+            {
+                "ime":"In the End",
+                "duzina":"3:36"
+            },
+            {
+                "ime":"A Place for My Head",
+                "duzina":"3:04"
+            },
+            {
+                "ime":"Forgotten",
+                "duzina":"3:14"
+            },
+            {
+                "ime":"Cure for the Itch",
+                "duzina":"3:14"
+            },
+            {
+                "ime":"Pushing Me Away",
+                "duzina":"3:11"
+            }
+        ]
+    },
+    {
+        "albumID":2,
+        "izvodjacID":2,
+        "naziv":"Close to the Edge",
+        "cena":{
+            "stara":2500,
+            "nova":2200,
+            "valuta":"RSD"
+        },
+        "zanrovi":[1,5],
+        "slika":{
+            "src":"assets/img/yesclose.jpg",
+            "alt":"Yes Close to the Edge"
+        },
+        "datumIzlaska":{
+            "dan":13,
+            "mesec":9,
+            "godina":1972
+        },
+        "pakovanje":"LP",
+        "pesme":[
+            {
+                "ime":"Close to the Edge",
+                "duzina":"18:38"
+            },
+            {
+                "ime":"And You And I",
+                "duzina":"10:08"
+            },
+            {
+                "ime":"Siberian Khatru",
+                "duzina":"8:55"
+            }
+        ]
+    }
+]

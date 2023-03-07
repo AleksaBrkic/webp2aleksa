@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naziv":"Linkin Park"
+    },
+    {
+        "id":2,
+        "naziv":"Yes"
+    },
+    {
+        "id":3,
+        "naziv":"Paramore"
+    },
+    {
+        "id":4,
+        "naziv":"The Smiths"
+    },
+    {
+        "id":5,
+        "naziv":"Slipknot"
+    }
+]

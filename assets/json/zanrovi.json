@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naziv":"Rock"
+    },
+    {
+        "id":2,
+        "naziv":"Metal"
+    },
+    {
+        "id":3,
+        "naziv":"Rap"
+    },
+    {
+        "id":4,
+        "naziv":"Pop"
+    },
+    {
+        "id":5,
+        "naziv":"Prog Rock"
+    }
+]
